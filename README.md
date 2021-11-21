@@ -1,10 +1,11 @@
 # React App Template
 
-A CRA react app template with:
+A React app template with:
 
-* Typescript
-* eslint
-* prettier
+* Parcel 2
+* TypeScript
+* ESLint
+* Prettier
 * ts-jest
 
 ## Usage
